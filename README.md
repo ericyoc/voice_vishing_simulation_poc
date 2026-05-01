@@ -2,6 +2,12 @@
 
 An advanced, voice-enabled social engineering simulation environment designed for Security Awareness Training. This tool allows security professionals to demonstrate how modern AI can be weaponized to conduct high-pressure Vishing (Voice Phishing) attacks using real-time voice synthesis and adaptive LLM reasoning.
 
+## Interface Preview
+
+![Simulation Interface](screen_shot_interaction.png)
+
+*The simulation UI featuring the real-time transcript, recording status, and audio playback controls.*
+
 ## Prerequisites
 
 Before running the simulation, ensure you have the following accounts and API keys configured:
